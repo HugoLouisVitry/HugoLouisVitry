@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Hugo
+
+Currently studying at ENAC (the national french school of civil avitation) in Toulouse.
+I'm a newbie in the marvelous wolrd of robotics, working and learning with [Enac Robotique](https://github.com/ENACRobotique). 
+
+- Programming languages : C++, Python
+- CAD software I've already used : Kicad, Solidworks, Onshape
+- Technologies : Arduino, ST, Raspberry, Linux
+
+
+Fun facts : used C++ for years without knowing the existence of pointers...
 
 <!--
 **HugoLouisVitry/HugoLouisVitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
