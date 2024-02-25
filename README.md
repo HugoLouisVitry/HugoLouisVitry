@@ -8,7 +8,7 @@ I'm a newbie in the marvelous wolrd of robotics, working and learning with [Enac
 - Technologies : Arduino, ST, Raspberry, Linux
 
 
-Fun facts : used C++ for years without knowing the existence of pointers...
+Fun facts : used C++ for years without knowing the existence of pointers... 
 
 <!--
 **HugoLouisVitry/HugoLouisVitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
