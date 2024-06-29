@@ -7,8 +7,7 @@ I'm a newbie in the marvelous wolrd of robotics, working and learning with [Enac
 - CAD software I've already used : Kicad, Solidworks, Onshape
 - Technologies : Arduino, ST, Raspberry, Linux
 
-
-Fun facts : used C++ for years without knowing the existence of pointers... 
+I mostly code from EnacRobotic Github account so you won't see a lot of my related activity here...
 
 <!--
 **HugoLouisVitry/HugoLouisVitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
